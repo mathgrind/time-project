@@ -19,7 +19,5 @@
     "url": "https://github.com/mathgrind/time-project/issues"
   },
   "homepage": "https://github.com/mathgrind/time-project#readme",
-  "dependencies": {
-    "dateformat": "^1.0.12"
-  }
+  "dependencies": {}
 }
